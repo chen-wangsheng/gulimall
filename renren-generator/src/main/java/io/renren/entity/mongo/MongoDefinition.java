@@ -4,7 +4,6 @@ import io.renren.adaptor.MongoTableInfoAdaptor;
 import org.apache.commons.collections.CollectionUtils;
 
 import java.io.Serializable;
-import java.util.*;
 
 
 /**
